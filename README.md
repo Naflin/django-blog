@@ -1,4 +1,4 @@
-# django-blog
+# django-blog from Antonio Mele's - Django 2 by Example
 
 1. Create virtual environment:
 
